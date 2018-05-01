@@ -2,19 +2,19 @@
   {
     "cardid":"1",
     "title":"Citta walkin",
-    "definition":"brief and to the point; effectively cut short ",
-    "text":"Touch the Image above",
-    "url":"https://www.cittasolutions.com/",
+    "definition":"brief and to the point; effectively cut short. ",
+    "phrase":"Jessica is so talkative that her sister thought the situation warranted conciseness, and her being laconic.",
     "image":"https://i.imgur.com/X3n294d.jpg",
-    "thumbnail_image":""
+    "swords":"brief, concise, terse, succinct, short, economical, elliptical, crisp, pithy, to the point, incisive, short and sweet, compendious",
+    "examples":"his laconic reply suggested a lack of interest in the topic"
   },
   {
     "cardid":"2",
     "title":"IT Freshers",
-    "definition":"make, become better",
-    "text":"Binary Fountain Solutions India Pvt Ltd requires\n IT Freshers (Java / Python)\n 0 - 0 years experience\n Job Location : Technopark, Trivandrum\n Brief Description \n Build and maintain efficient, reusable, and reliable Java code\n Design, implementation and testing of modules as directed by the team lead\n Preferred skills\n Core Java, J2EE\n RDBMS, MySQL\n Python\n Qualification\n BS/MS degree in Computer Science, MCA, B.Tech\n Experience\n 0-2 Years experience\n Walk-in Interview on 18th & 19th April 2018 between 11.00 am to 4.00 pm at :\n Binary Fountain Solutions India Pvt Ltd, L4, Ground Floor (Level -1),",
-    "url":"https://enquirekerala.com/index.php?option=com_jbjobs&view=guest&layout=detailjob&id=5013",
-    "image":"",
-    "thumbnail_image":"https://i.imgur.com/97zRmwL.png"
-   }
+    "definition":"make, become better. ",
+    "phrase":"Increase in penalties and effective awareness programs would ameliorate the growing pollution levels and there by global warming it may have generated.",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"alleviate, lighten, mitigate, amend, help, improve, meliorate, relieve, upgrade, step up",
+    "examples":"the reform did much to ameliorate living standards"
+  }
  ]
