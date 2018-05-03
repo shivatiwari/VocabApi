@@ -208,12 +208,12 @@
   },
   {
     "cardid":"5",
-    "title":"yoyo",
-    "definition":"brief and to the point; effectively cut short. ",
-    "phrase":"Jessica is so talkative that her sister thought the situation warranted conciseness, and her being laconic.",
+    "title":"Aberrant",
+    "definition":"Departing from an accepted standard.",
+    "phrase":"this somewhat aberrant behaviour requires an explanation.",
     "image":"https://i.imgur.com/X3n294d.jpg",
-    "swords":"brief, concise, terse, succinct, short, economical, elliptical, crisp, pithy, to the point, incisive, short and sweet, compendious",
-    "examples":"his laconic reply suggested a lack of interest in the topic"
+    "swords":"abnormal, anomalous, atypical, especial, exceeding, exceptional, extraordinary, freak, odd, peculiar, phenomenal, rare, singular, uncommon, unique, unusual",
+    "examples":"'This year for some aberrant reason, I feel like watching, so let's all watch together.'\n'In fact, it covers two of my many aberrant fields of interest.'"
   },
   {
     "cardid":"4",
@@ -222,7 +222,7 @@
     "phrase":"Increase in penalties and effective awareness programs would ameliorate the growing pollution levels and there by global warming it may have generated.",
     "image":"https://i.imgur.com/X3n294d.jpg",
     "swords":"alleviate, lighten, mitigate, amend, help, improve, meliorate, relieve, upgrade, step up",
-    "examples":"the reform did much to ameliorate living standards"
+    "examples":"'the reform did much to ameliorate living standards'\n'The humour ameliorates the violence in the statement.'"
   },
   {
     "cardid":"3",
@@ -231,7 +231,7 @@
     "phrase":"Jessica is so talkative that her sister thought the situation warranted conciseness, and her being laconic.",
     "image":"https://i.imgur.com/X3n294d.jpg",
     "swords":"brief, concise, terse, succinct, short, economical, elliptical, crisp, pithy, to the point, incisive, short and sweet, compendious",
-    "examples":"The problem is likely to be, at least in part, Hilberg's laconic style.\nhis laconic reply suggested a lack of interest in the topic."
+    "examples":"'The problem is likely to be, at least in part, Hilberg's laconic style.'\n'his laconic reply suggested a lack of interest in the topic.'"
   },
   {
     "cardid":"2",
@@ -240,7 +240,7 @@
     "phrase":"'The experience had a very profound effect on me, both emotionally and spiritually.'",
     "image":"https://i.imgur.com/X3n294d.jpg",
     "swords":"heartfelt, intense, keen, great, very great, extreme",
-    "examples":"Such films can never have a profound influence on the viewers, he says.\nI think it has quite profound implications for us as human beings."
+    "examples":"'Such films can never have a profound influence on the viewers, he says'.\n'I think it has quite profound implications for us as human beings.'"
   },
   {
     "cardid":"1",
@@ -249,6 +249,6 @@
     "phrase":"'the storm suddenly abated.'",
     "image":"https://i.imgur.com/X3n294d.jpg",
     "swords":"decrease, lessen, diminish, reduce, lower, dampen",
-    "examples":" 'nothing abated his crusading zeal.'\n'energy efficiency may be the quickest way to abate emissions of carbon dioxide.'"
+    "examples":"'nothing abated his crusading zeal.'\n'energy efficiency may be the quickest way to abate emissions of carbon dioxide.'"
   }
  ]
