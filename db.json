@@ -1,5 +1,14 @@
 [
   {
+    "cardid":"30",
+    "title":"Anecdotal",
+    "definition":"not necessarily true or reliable.",
+    "phrase":"I have my own theories on this, but they are based purely on anecdotal evidence.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"informal, unreliable, based on hearsay; unscientific",
+    "examples":"'Theory is paraded as fact, anecdotal accounts as hard data.'\n'Some effect measurements are based on anecdotal evidence.'"
+  },
+  {
     "cardid":"29",
     "title":"Admonish",
     "definition":"scold, reprimand firmly.",
