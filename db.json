@@ -1,5 +1,14 @@
 [
   {
+    "cardid":"11",
+    "title":"Pragmatic",
+    "definition":"Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+    "phrase":"a pragmatic approach to politics.",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"down-to-earth, earthy, hardheaded, matter-of-fact, practical, realistic.",
+    "examples":"'All three authors point out that as a composer Stravinsky was very pragmatic.'"
+  },
+  {
     "cardid":"10",
     "title":"Bolster",
     "definition":"support or strengthen.",
@@ -23,7 +32,7 @@
     "definition":"intensely enthusiastic or passionate, especially to an excessive degree.",
     "phrase":"his fervid protestations of love",
     "image":"https://i.imgur.com/X3n294d.jpg",
-    "swords":"ardent, blazing, burning, charged, demonstrative, emotional,hot-blooded, impassioned, incandescent, intense, passional, passionate",
+    "swords":"ardent, blazing, burning, charged, emotional, hot-blooded, incandescent, intense, passional, passionate",
     "examples":"'I don't have the feeling that he is a fervid prosecutor in the sense that he thinks that anyone accused of something must be guilty.'"
   },
   {
