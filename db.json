@@ -1,5 +1,68 @@
 [
   {
+    "cardid":"18",
+    "title":"Meticulous",
+    "definition":"Showing great attention to detail; very careful and precise.",
+    "phrase":"the designs are hand-glazed with meticulous care",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"careful, conscientious, diligent, ultra-careful, scrupulous, punctilious, painstaking, demanding, exacting, accurate, correct",
+    "examples":"'he had always been so meticulous about his appearance'"
+  },
+  {
+    "cardid":"17",
+    "title":"Erudite",
+    "definition":"Having or showing great knowledge or learning.",
+    "phrase":"Ken could turn any conversation into an erudite discussion",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"learned, scholarly, well educated, knowledgeable, well read, widely read, well versed, well informed, lettered, cultured, cultivated, civilized, intellectual",
+    "examples":"'she was very erudite'\n'The Clinton debate was, it turned out, an unusually erudite discussion.'"
+  },
+  {
+    "cardid":"16",
+    "title":"Fastidious",
+    "definition":"very careful and attentive.",
+    "phrase":"she dressed with fastidious care",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"scrupulous, punctilious, painstaking, meticulous, assiduous, sedulous, perfectionist, fussy, finicky, dainty, over-particular",
+    "examples":"'The central characters are fastidious, scrupulous and articulate.'\n'Aside from this fastidious attention to detail, the designer's work has few distinguishing features.'"
+  },
+  {
+    "cardid":"15",
+    "title":"Euphoric",
+    "definition":"Characterized by or feeling intense excitement and happiness.",
+    "phrase":"The atmosphere was euphoric even before we took the lead.",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"elated, happy, joyful, joyous, delighted, gleeful, excited, exhilarated, animated, jubilant, exultant, ecstatic, blissful",
+    "examples":"'You want to know when I'm happy or sad, tired, glad, euphoric, if I just got piece, whatever.'"
+  },
+  {
+    "cardid":"14",
+    "title":"Enigma",
+    "definition":"A person or thing that is mysterious or difficult to understand.",
+    "phrase":"What is left is the puzzle and the enigma that we need to figure out.",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"mystery, puzzle, riddle, conundrum, paradox, problem, unsolved problem, question, question mark, quandary",
+    "examples":"'It is often felt that death is an enigma, perhaps the ultimate mystery.'"
+  },
+  {
+    "cardid":"13",
+    "title":"Pedant",
+    "definition":"a person who is excessively concerned with minor details and rules or with displaying academic learning.",
+    "phrase":"The questioner is shouted down, accused of being a grammatical pedant.",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"dogmatist, purist, literalist, formalist, doctrinaire; precisionist, perfectionist",
+    "examples":"'I like that sentence and I don't care what grammatical pedants think.'"
+  },
+  {
+    "cardid":"12",
+    "title":"Abeyance",
+    "definition":"A state of temporary disuse or suspension.",
+    "phrase":"matters were held in abeyance pending further enquiries",
+    "image":"https://i.imgur.com/X3n294d.jpg",
+    "swords":"suspension, a state of suspension, a state of dormancy, a state of latency, a state of uncertainty, suspense, remission, reserve",
+    "examples":"'This meant escalation of the pain that had been held in abeyance.'"
+  },
+  {
     "cardid":"11",
     "title":"Pragmatic",
     "definition":"Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
