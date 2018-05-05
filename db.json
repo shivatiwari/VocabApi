@@ -1,5 +1,104 @@
 [
   {
+    "cardid":"41",
+    "title":"Default",
+    "definition":"An option that is selected automatically unless an alternative is specified",
+    "phrase":"The program will choose a default filename for you.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"normal, standard, usual, typical, stock, ordinary, customary, conventional",
+    "examples":"'Stephen informed us that there is such an option in the software but that the default setting is off.'"
+  },
+  {
+    "cardid":"40",
+    "title":"Diffidence",
+    "definition":"Modesty or shyness resulting from a lack of self-confidence.",
+    "phrase":"I say this with some diffidence",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"shyness, modesty, modestness, humility, humbleness, timidness, timorousness, reserve",
+    "examples":"'It is with diffidence and humility that I greet the ultimate constitutional power in the Republic, the Presidential electors.'"
+  },
+  {
+    "cardid":"39",
+    "title":"Dichotomy",
+    "definition":"A division or contrast between two things that are or are represented as being opposed or entirely different.",
+    "phrase":"a rigid dichotomy between science and mysticism.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"division, separation, divorce, split, gulf, chasm",
+    "examples":"'The old dichotomies begin to collapse as artists emphasize their sense of symbiosis with, rather than detachment from, Nature.'"
+  },
+  {
+    "cardid":"38",
+    "title":"Confound",
+    "definition":"Cause surprise or confusion in (someone).",
+    "phrase":"I was confounded by this unexpected rationality.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"amaze, astonish, stagger, surprise, startle, stun, stupefy, daze",
+    "examples":"'In only a few years, it won't just be the Web that confounds you, it will be your personal computer.'"
+  },
+  {
+    "cardid":"37",
+    "title":"Decorum",
+    "definition":"Behaviour in keeping with good taste and propriety.",
+    "phrase":"he had acted with the utmost decorum.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"propriety, properness, seemliness, decency, decorousness, appropriacy",
+    "examples":"'They are patterns of behaviour or patterns of decorum that we all have,’ says MacArthur.'"
+  },
+  {
+    "cardid":"36",
+    "title":"Castigate",
+    "definition":"Reprimand (someone) severely.",
+    "phrase":"A friend used to castigate me for not wearing a belt.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"reprimand, rebuke, admonish, upbraid, reprove, reproach, scold, ",
+    "examples":"'He had castigated the team for, among other things, unprofessionalism and indiscipline.'"
+  },
+  {
+    "cardid":"35",
+    "title":"Belie",
+    "definition":"fail to give a true impression of (something).",
+    "phrase":"His tone of voice and the look in his eyes completely belied his words.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"contradict, disprove, debunk, discredit, explode",
+    "examples":"'Its exotic appearance belies the toughness and reliability of its nature.'"
+  },
+  {
+    "cardid":"34",
+    "title":"Banal",
+    "definition":"so lacking in originality as to be obvious and boring.",
+    "phrase":"songs with banal, repeated words",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"clichéd, commonplace, ordinary, common, conventional, stereotyped, predictable",
+    "examples":"'I find most New Age spiritual music to be boring and banal but I've met a lot of people that find great use for it.'"
+  },
+  {
+    "cardid":"33",
+    "title":"Aesthetic",
+    "definition":"concerning or characterized by an appreciation of beauty or good taste.",
+    "phrase":"the pictures give great aesthetic pleasure",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"decorative, graceful, elegant, exquisite, beautiful, attractive, pleasing, lovely, stylish",
+    "examples":"'The art on the walls was contemporary and unusual, creating an ambience of aesthetic appreciation.'"
+  },
+  {
+    "cardid":"32",
+    "title":"Caustic",
+    "definition":"Sarcastic in a scathing and bitter way.",
+    "phrase":"the players were making caustic comments about the refereeing.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"sarcastic, sharp, bitter, scathing, derisive, sardonic, ironic, scornful",
+    "examples":"'I am continually surprised by Sharon's creativity even if it is currently directed towards caustic but witty sarcasm.'"
+  },
+  {
+    "cardid":"31",
+    "title":"Adulterate",
+    "definition":"make impure by adding a foreign or inferior substance.",
+    "phrase":"the brewer is said to adulterate his beer",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"degrade, debase, spoil, taint, defile, contaminate, pollute, foul, sully",
+    "examples":"'The authorities, especially, the health department, should take stringent action against those who are adulterating food.'"
+  },
+  {
     "cardid":"30",
     "title":"Anecdotal",
     "definition":"not necessarily true or reliable.",
