@@ -1,5 +1,86 @@
 [
   {
+    "cardid":"50",
+    "title":"Levy",
+    "definition":"Impose a tax, fee, or fine on; Collect tax from.",
+    "phrase":"a tax of two per cent was levied on all cargoes",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"impose, charge, exact, demand, raise, collect, gather",
+    "examples":"'Taxes are levied on the basis of income and property.'"
+  },
+  {
+    "cardid":"49",
+    "title":"Germane",
+    "definition":"Relevant to a subject under consideration.",
+    "phrase":"That is not germane to our theme.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"relevant, pertinent, applicable, apposite, material",
+    "examples":"'It is therefore necessary that certain points germane to the subject be discussed in detail.'"
+  },
+  {
+    "cardid":"48",
+    "title":"Foreshadow",
+    "definition":"Be a warning or indication of (a future event).",
+    "phrase":"These dreams are invariably important, and often foreshadow events in the near future.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"augur, presage, portend, prognosticate, foreshow, foretell, indicate, suggest, signal",
+    "examples":"'This impression is not quite accurate but does foreshadow events to come.'"
+  },
+  {
+    "cardid":"47",
+    "title":"Ephemeral",
+    "definition":"Lasting for a very short time.",
+    "phrase":"fashions are ephemeral: new ones regularly drive out the old",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"transitory, transient, fleeting, passing, short-lived, momentary, brief, short",
+    "examples":"'The pictures reflect an interest in the ephemeral, impermanent, transient nature of the world.'"
+  },
+  {
+    "cardid":"46",
+    "title":"Deterrent",
+    "definition":"Something that restrains or discourages.",
+    "phrase":"The concentration of wealth and power is a great deterrent to democracy.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"disincentive, discouragement, dissuasion, damper, brake, curb, check, restraint",
+    "examples":"'These penalties will hopefully act as a deterrent to anybody else thinking of abusing or assaulting a referee.'"
+  },
+  {
+    "cardid":"45",
+    "title":"Concede",
+    "definition":"Admit or agree that something is true after first denying or resisting it.",
+    "phrase":"I had to concede that I'd overreacted.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"normal, standard, usual, typical, stock, ordinary, customary, conventional",
+    "examples":"'All parties, including the government and the suppliers conceded the evidence as true.'"
+  },
+  {
+    "cardid":"44",
+    "title":"Chauvinism",
+    "definition":"Exaggerated or aggressive patriotism.",
+    "phrase":"public opinion was easily moved to chauvinism and nationalism.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"jingoism, excessive patriotism, blind patriotism, excessive nationalism, sectarianism, isolationism",
+    "examples":"'A definite environment has been created of blind patriotism and chauvinism.'"
+  },
+  {
+    "cardid":"43",
+    "title":"Balk",
+    "definition":"Hesitate or refuse to do something.",
+    "phrase":"he balked at such a drastic solution.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"eschew, resist, refuse to, be unwilling to, draw the line at, be reluctant to, draw back from",
+    "examples":"'At first she balked at the idea, saying she no longer performed those pieces.'"
+  },
+  {
+    "cardid":"42",
+    "title":"Facade",
+    "definition":"A deceptive outward appearance.",
+    "phrase":"She was behind a mask of facades, and at the moment, so was I.",
+    "image":"http://static.sfdict.com/sizedimage/sizedimage?width=455&height=455&url=http%3A%2F%2Fstatic.sfdict.com%2Fstatic%2Fwotd%2Ftiles%2F20150821_laconic.png",
+    "swords":"front, appearance, false display, pretence, illusion, posture, pose, sham, fake, ac, guise, mask, cloak",
+    "examples":"'But behind his flawless English facade is a Celtic streak which has fuelled his career.'"
+  },
+  {
     "cardid":"41",
     "title":"Default",
     "definition":"An option that is selected automatically unless an alternative is specified",
