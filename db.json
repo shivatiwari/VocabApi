@@ -1,4 +1,49 @@
 [
+   {
+    "cardid":"55",
+    "title":"Objective",
+    "definition":"not influenced by personal feelings or opinions in considering and representing facts.",
+    "phrase":"historians try to be objective and impartial",
+    "image":"http://wordinfo.info/words/images/levy-1.jpg",
+    "swords":"impartial, unbiased, neutral, uninvolved, even-handed, equitable, fair",
+    "examples":"'Any objective person would have to say that over the last four years we have invested more particularly in cancer services than we did in the past twenty years.'"
+  },
+  {
+    "cardid":"54",
+    "title":"Maverick",
+    "definition":"An unorthodox or independent-minded person.",
+    "phrase":"They want independent minds, mavericks and free thinkers.",
+    "image":"http://wordinfo.info/words/images/levy-1.jpg",
+    "swords":"individualist, free spirit, original, trendsetter, bohemian, eccentric",
+    "examples":"'A maverick, and an individual, he's running on instinct, fuelled by experience and making the right decisions.'"
+  },
+  {
+    "cardid":"53",
+    "title":"Bygone",
+    "definition":"Belonging to an earlier time.",
+    "phrase":"relics of a bygone age",
+    "image":"http://wordinfo.info/words/images/levy-1.jpg",
+    "swords":"past, former, earlier, one-time, long-ago, gone by, previous, forgotten",
+    "examples":"'The Street administration portrays the mounted unit as a relic of a bygone era.'"
+  },
+  {
+    "cardid":"52",
+    "title":"Artless",
+    "definition":"Without effort or pretentiousness; natural and simple.",
+    "phrase":"an artless literary masterpiece",
+    "image":"http://wordinfo.info/words/images/levy-1.jpg",
+    "swords":"natural, naive, simple, innocent, childlike, pure, ingenuous, guileless, candid",
+    "examples":"'His prose is artless and nowhere near as polished as Osborne's, but his book still tells a fascinating story.'"
+  },
+  {
+    "cardid":"51",
+    "title":"Apathy",
+    "definition":"Lack of interest, enthusiasm, or concern.",
+    "phrase":"We may not be able to institute change, but apathy is the death of all dialogue and debate.",
+    "image":"http://wordinfo.info/words/images/levy-1.jpg",
+    "swords":"indifference, lack of interest, lack of enthusiasm, lack of concern, unconcern",
+    "examples":"'This shows apathy on the part of the Government to the problems of the common man.'"
+  },
   {
     "cardid":"50",
     "title":"Levy",
