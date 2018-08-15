@@ -1,4 +1,15 @@
-[{
+[	
+	{	
+		"cardid": "62",
+		"title": "Novel",
+		"definition": "Interestingly new or unusual.",
+		"phrase": "It is not surprising that Fisher's novel ideas took time to become accepted.",
+		"image": "https://4.bp.blogspot.com/-Q4VISUah188/W3R4EoW8wuI/AAAAAAAAAXc/cGp70xUbz2MM3OPYWQ8VdsQReBe6-nSTACLcBGAs/s1600/Novel.png",
+		"swords": "new, original, unusual, unfamiliar, unconventional",
+		"examples": "'The novel idea aims to promote healthy eating habits for school children around the country.'"
+	
+	},
+	{
 		"cardid": "61",
 		"title": "Collateral",
 		"definition": "Additional but subordinate; secondary.",
